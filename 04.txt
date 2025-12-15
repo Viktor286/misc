@@ -4,7 +4,7 @@ Communication with my direct supervisor is intentionally concise and decision-fo
 
 When providing updates, I lead with the outcome. Instead of describing process, I summarize the result, current status, and any decision required. If no action is needed, I state that explicitly. This allows my supervisor to quickly assess priority without additional back-and-forth.
 
-Issues are framed with solutions. When I escalate a concern—such as pricing resistance, automation errors, or unit readiness—I include the corrective steps already taken and, if relevant, one or two recommended options. This demonstrates ownership and reduces cognitive load for decision-making.
+Issues are framed with solutions. When I escalate a concern-such as pricing resistance, automation errors, or unit readiness-I include the corrective steps already taken and, if relevant, one or two recommended options. This demonstrates ownership and reduces cognitive load for decision-making.
 
 Data is used selectively. I reference key metrics or trends rather than full reports, focusing on what has changed and why it matters. Overloading communication with raw data is avoided unless requested.
 
